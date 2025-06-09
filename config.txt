@@ -1,5 +1,5 @@
-﻿name=Loader
+﻿name=HDassak
 owner_id=1Xadkrpf1V
 version=1.0
-secret=b0d9a5c35d515883276581cc059df531cf3e8feb3d6a5c25bf7f4d3f12e05910
+secret=4e00f76560dc93d93ecb31b9e25927b5d9f72967311a9acbf01ae6f70cf702de
 file_hash=9d47130c7c538d4a91a133efdec378f9cb6b7b15847c2905e12e7cb5e62020d6
